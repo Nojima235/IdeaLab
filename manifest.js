@@ -127,6 +127,14 @@ const IDEAS_MANIFEST = [
     name:       "永榮 夕希",
     award:      "",
   },
+{
+    file:       "contents/2604_mori.js",
+    title:      "笑顔と丁寧！簡単に！",
+    sub:        "マルエツ稲毛店 · 2026年4月",
+    department: "情報",
+    name:       "森 瑠茅華",
+    award:      "",
+  },
   {
     file:       "contents/2604_koma.js",
     title:      "チーム対抗モバイル合戦",
