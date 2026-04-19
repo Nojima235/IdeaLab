@@ -6,7 +6,7 @@ window.GMGDD = {
   title: {
     main:       "モバイル部門別対抗戦",
     sub:        "マルエツ稲毛店  ·  2026年4月",
-    department: "通信",
+    department: "情報",
     name:       "田邊 雪菜",
     award: "gold",
     // award: "silver",
